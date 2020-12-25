@@ -1,9 +1,11 @@
 
 # Relaxation_Method
 ## Equation be : 
+   <pre>
    6x - 3y + z = 11
    2x - y - 8z = -15
    x - 7y + z = 10
+   </pre>
    
    
 ## Output : 
